@@ -1,6 +1,6 @@
 module github.com/kairos-io/kairos-agent/v2
 
-go 1.24.4
+go 1.24.5
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0
@@ -39,11 +39,9 @@ require (
 	github.com/charmbracelet/bubbletea v1.3.6
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/containerd/containerd v1.7.27
-	github.com/containerd/containerd/v2 v2.1.3
 	github.com/distribution/reference v0.6.0
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/google/go-github/v69 v69.2.0
-	github.com/google/go-github/v73 v73.0.0
 	github.com/twpayne/go-vfs/v5 v5.0.4
 	github.com/urfave/cli/v2 v2.27.7
 )
@@ -209,6 +207,7 @@ require (
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.61.0 // indirect
 	go.opentelemetry.io/otel v1.36.0 // indirect
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.35.0 // indirect
 	go.opentelemetry.io/otel/metric v1.36.0 // indirect
 	go.opentelemetry.io/otel/trace v1.36.0 // indirect
 	go.uber.org/automaxprocs v1.6.0 // indirect
@@ -235,3 +234,5 @@ require (
 	pault.ag/go/modprobe v0.2.0 // indirect
 	pault.ag/go/topsort v0.1.1 // indirect
 )
+
+replace github.com/kairos-io/kairos-sdk => github.com/aidanleuck/kairos-sdk v0.0.0-20250802155027-837456698a2e
