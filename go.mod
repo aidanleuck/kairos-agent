@@ -235,4 +235,4 @@ require (
 	pault.ag/go/topsort v0.1.1 // indirect
 )
 
-replace github.com/kairos-io/kairos-sdk => github.com/aidanleuck/kairos-sdk v0.0.0-20250802155027-837456698a2e
+replace github.com/kairos-io/kairos-sdk => github.com/aidanleuck/kairos-sdk v0.0.0-20250808151217-26f61eef7b77
