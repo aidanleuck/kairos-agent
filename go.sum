@@ -36,8 +36,8 @@ github.com/ProtonMail/go-crypto v1.1.5 h1:eoAQfK2dwL+tFSFpr7TbOaPNUbPiJj4fLYwwGE
 github.com/ProtonMail/go-crypto v1.1.5/go.mod h1:rA3QumHc/FZ8pAHreoekgiAbzpNsfQAosU5td4SnOrE=
 github.com/StackExchange/wmi v1.2.1 h1:VIkavFPXSjcnS+O8yTq7NI32k0R5Aj+v39y29VYDOSA=
 github.com/StackExchange/wmi v1.2.1/go.mod h1:rcmrprowKIVzvc+NUiLncP2uuArMWLCbu9SBzvHz7e8=
-github.com/aidanleuck/kairos-sdk v0.0.0-20250808151217-26f61eef7b77 h1:zonupg52p4vzKSCDuXAYshBbbbG5ZQshYy+4i/6eGAk=
-github.com/aidanleuck/kairos-sdk v0.0.0-20250808151217-26f61eef7b77/go.mod h1:5PPun5B24uafoMBR3lDnot9GbsffFBATYdPfngh1n2Q=
+github.com/aidanleuck/kairos-sdk v0.0.0-20250814150632-df992fcb8b4b h1:We9ktr+jr1cZAbk7TEJwKknvT1YkGP085t7tnFS4SpA=
+github.com/aidanleuck/kairos-sdk v0.0.0-20250814150632-df992fcb8b4b/go.mod h1:5PPun5B24uafoMBR3lDnot9GbsffFBATYdPfngh1n2Q=
 github.com/alecthomas/assert/v2 v2.6.0 h1:o3WJwILtexrEUk3cUVal3oiQY2tfgr/FHWiz/v2n4FU=
 github.com/alecthomas/assert/v2 v2.6.0/go.mod h1:Bze95FyfUr7x34QZrjL+XP+0qgp/zg8yS+TtBj1WA3k=
 github.com/alecthomas/repr v0.4.0 h1:GhI2A8MACjfegCPVq9f1FLvIBS+DrQ2KQBFZP1iFzXc=
